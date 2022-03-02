@@ -1,0 +1,17 @@
+
+¡
+java:S3577"…Rename class "Models" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÙÿËêøÿÿÿÿ
+9
+java:S5786"Remove this 'public' modifier.(•í¦æøÿÿÿÿ
+9
+java:S5786"Remove this 'public' modifier.(ÙÿËêøÿÿÿÿ
+:
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú
+:
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú
+:
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú
+:
+java:S2925"$Remove this use of "Thread.sleep()".(¯ú™ú
+H
+java:S2699"-Add at least one assertion to this test case.(•í¦æøÿÿÿÿ
