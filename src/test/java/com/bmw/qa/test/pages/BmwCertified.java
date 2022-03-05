@@ -15,7 +15,7 @@ public class BmwCertified extends BaseClass {
         Thread.sleep(2000);
         driver.findElement(By.cssSelector("body > div:nth-child(3) > div > div > div.globalnav-container.bmw-grid-row.bmw-grid-middle-default > div.bmw-grid-col-default-25.bmw-grid-col-lg-14.bmw-grid-col-xl-12.globalnav-primary__bar > div > nav > ul > li:nth-child(4) > a")).click();
         Thread.sleep(4000);
-        driver.findElement(By.xpath("//*[@id=\"animation-container-2243593a-73a0-4760-b35b-5adf7f52e780\"]/div/div/div/div[7]/div/div/div[1]/div/section/a")).click();
+        driver.findElement(By.linkText("Pre-Owned Inventory")).click();
         Thread.sleep(4000);
         driver.findElement(By.cssSelector("#zip-input-cpo")).sendKeys("11433");
         Thread.sleep(2000);
